@@ -1,0 +1,8 @@
+/*Верхнее меню сайта*/
+#top-menu {width: 960px; height: 74px; }
+.bg-1 {width: 950px; height: 64px; padding: 0 0 0 10px; color: black }
+.bg-2 {width: 940px; height: 8px; background:#ff9c00; margin:0 auto; color: darkgray}
+.bg-1 ul {margin:0; padding:0; list-style:none;}
+.bg-1 ul li {float:left; padding:0 2px 0 0;}
+.bg-1 ul li a {display:block; height:40px; padding:24px 27px 0 27px; color: currentColor; text-decoration:none; text-transform:uppercase;}
+.bg-1 ul li a:hover {color: blue; background:#ff9c00;}
