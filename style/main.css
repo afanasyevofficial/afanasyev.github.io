@@ -22,7 +22,7 @@ nav ul {
     display: flex;
 }
 /*Главное меню в подвале*/
-footer nav, div ul {
+footer > nav {
     display: flex;
 }
 /*Предустановки для разметки flex-элементов: row - горизонтально, column - вертикально*/
