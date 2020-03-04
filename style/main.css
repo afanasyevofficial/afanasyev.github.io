@@ -21,6 +21,10 @@ nav ul {
     list-style: none;
     display: flex;
 }
+/*Главное меню в подвале*/
+footer nav, div ul {
+    display: flex;
+}
 /*Предустановки для разметки flex-элементов: row - горизонтально, column - вертикально*/
 .row{
     flex-direction: row;
