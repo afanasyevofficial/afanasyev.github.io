@@ -4,3 +4,27 @@ h1 {
     font-size: 20px;
     color: darkred;
 }
+/*Responsive разметка*/
+https://github.com/cdod4/site/blob/master/responsive.css
+
+/*Контейнер для содержимого страницы*/
+.container{
+    width: 100%;
+    max-width: 1024px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+/*Гланое меню в шапке*/
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+/*Предустановки для разметки flex-элементов: row - горизонтально, column - вертикально*/
+.row{
+    flex-direction: row;
+}
+.column{
+    flex-direction: column;
+}
