@@ -57,7 +57,11 @@ img {
 .col-5 {
     flex: 5;
 }
-
+@media(max-width: 800px) {
+    .container {
+        flex-direction: column;
+    }
+}
 
 /* Шапка сайта */
 header {
