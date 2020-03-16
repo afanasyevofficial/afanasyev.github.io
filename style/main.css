@@ -66,6 +66,7 @@ img {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
+    background-color: navy;
 }
 
 
@@ -73,6 +74,7 @@ header {
 main {
     display: flex;
     flex: 1 0 auto;
+    background-color: lightgray;
 }
 main > div.container {
     flex: 1 0 auto;
@@ -88,4 +90,5 @@ aside {
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
+    background-color: navy;
 }
