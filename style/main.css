@@ -90,10 +90,12 @@ main > div.container {
     background-color: white;
 }
 section {
-
+    flex: 3 0 auto;
+    padding: 0 15px;
 }
 aside {
-
+    flex: 3 0 auto;
+    padding: 0 15px;
 }
 
 
@@ -102,4 +104,8 @@ footer {
     flex: 0 0 auto;
     background-color: navy;
     height: 300px;
+    color: white;
+}
+header > div.container {
+    height: 100%;
 }
