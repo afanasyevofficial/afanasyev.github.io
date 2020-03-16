@@ -106,6 +106,7 @@ footer {
     height: 300px;
     color: white;
 }
-header > div.container {
+footer > div.container {
     height: 100%;
+    padding: 10px 0;
 }
