@@ -67,6 +67,7 @@ img {
 header {
     flex: 0 0 auto;
     background-color: navy;
+    height: 100px
 }
 
 
@@ -78,6 +79,7 @@ main {
 }
 main > div.container {
     flex: 1 0 auto;
+    background-color: white;
 }
 section {
 
@@ -91,4 +93,5 @@ aside {
 footer {
     flex: 0 0 auto;
     background-color: navy;
+    height: 300px;
 }
