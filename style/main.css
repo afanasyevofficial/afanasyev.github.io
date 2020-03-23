@@ -30,6 +30,20 @@ body {
     margin: 10px 20px;
     text-decoration: none !important;
 }
+.button:hover {
+    background-color: #888;
+}
+.container {
+    padding: 0 15px;
+}
+body {
+    font-size: 14px;
+}
+h1 {
+    font-size: 2.4em;
+    padding: .8em 0 1.2em 0;
+}
+
 
 /* Предустановки */
 .row {
