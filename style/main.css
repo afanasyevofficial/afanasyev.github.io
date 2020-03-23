@@ -21,7 +21,15 @@ body {
     padding: 0 15px;
     margin: 0 auto;
 }
-
+.button {
+    height: 50px;
+    /*width:100px;*/
+}
+.button {
+    padding: 20px 30px;
+    margin: 10px 20px;
+    text-decoration: none !important;
+}
 
 /* Предустановки */
 .row {
@@ -37,7 +45,9 @@ nav ul {
     padding: 0;
     list-style: none;
 }
-
+.b-right {
+    border-right: 1px solid #e5e5e5;
+}
 
 /* Гибкая верстка */
 img {
@@ -80,6 +90,9 @@ header > div.container {
 header ul li {
     margin-right: 20px;
 }
+header.logo {
+    width: 100px;
+}
 
 /* Основное содержимое */
 main {
@@ -89,7 +102,12 @@ main {
 }
 main > div.container {
     flex: 1 0 auto;
-    background-color: black;
+    background-color: white;
+}
+main {
+    background-image: url(/afanasyev_official/images/main.jpg);
+    background-position: center center;
+    background-size: cover;
 }
 section {
     flex: 3 0 auto;
@@ -99,8 +117,16 @@ aside {
     flex: 3 0 auto;
     padding: 0 15px;
 }
-
-
+aside a {
+    color: white;
+    text-decoration: none;
+}
+aside a:hover {
+    text-decoration: underline;
+}
+aside li {
+    line-height: 1.5em;
+}
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
@@ -114,4 +140,16 @@ footer > div.container {
 }
 footer nav ul {
     margin-right: 30px;
+}
+header a,
+footer a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover,
+footer a:hover {
+    text-decoration: underline;
+}
+footer li {
+    line-height: 2em;
 }
