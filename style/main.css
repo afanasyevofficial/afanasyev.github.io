@@ -14,17 +14,6 @@ body {
     flex-direction: column;
     height: 100%;
 }
-.container {
-    display: flex;
-    width: 100%;
-    max-width: 1200px; /*максимальная ширина может иметь другое значение*/
-    padding: 0 15px;
-    margin: 0 auto;
-}
-.button {
-    height: 50px;
-    /*width:100px;*/
-}
 .button {
     padding: 20px 30px;
     margin: 10px 20px;
