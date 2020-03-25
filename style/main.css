@@ -20,11 +20,11 @@ body {
     text-decoration: none !important;
 }
 .button:hover {
-    background-color: #888;
+    background-color: red;
 }
 .button {
     height: 50px;
-    background-color: red;
+    background-color: #888;
     border-radius: 5px;
 }
 .container {
