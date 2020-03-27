@@ -118,8 +118,9 @@ img {
 
 /* Шапка сайта */
 header {
-    flex: 0 0 auto;
+    flex: 1 0 auto;
     height: 100px;
+    width: 1000px;
 }
 header > div.container {
     height: 100%;
@@ -128,15 +129,13 @@ header > div.container {
 header ul li {
     margin-right: 20px;
 }
-header.logo {
-    width: 100px;
-}
 header.col-1 {
     background-color: #F7F4F4;
 }
 header.col-4 {
     background-color: black;
 }
+
 
 /* Основное содержимое */
 main {
