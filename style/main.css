@@ -119,7 +119,7 @@ img {
 /* Шапка сайта */
 header {
     flex: 1 0 auto;
-    height: 100px;
+    height: 50px;
     width: 1000px;
 }
 header > div.container {
