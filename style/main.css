@@ -138,7 +138,7 @@ header ul {
     text-align: center;
     background-color: black;
     height: 70px;
-    align-items: center;
+    justify-content: center;
 }
 header ul li {
     margin-right: 20px;
