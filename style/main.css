@@ -139,6 +139,7 @@ header ul {
     background-color: black;
     height: 70px;
     justify-content: center;
+    margin-top: 10px;
 }
 header ul li {
     margin-right: 20px;
