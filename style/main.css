@@ -139,11 +139,11 @@ header ul {
     background-color: black;
     height: 70px;
     justify-content: center;
-    margin-top: 35px;
 }
 header ul li {
     margin-right: 20px;
     text-align: center;
+    margin-top: 35px;
 }
 header .col-1 {
     background-color: #f2e8c9;
