@@ -136,6 +136,8 @@ header > div.container {
 }
 header ul {
     text-align: center;
+    background-color: black;
+    height: 70px;
 }
 header ul li {
     margin-right: 20px;
@@ -146,7 +148,7 @@ header .col-1 {
     height: 100%;
 }
 header .col-4 {
-    background-color: black;
+    background-color: #f2e8c9;
     height: 70px;
 }
 
