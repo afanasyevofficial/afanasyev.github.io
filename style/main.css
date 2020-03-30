@@ -94,9 +94,9 @@ img {
     width: 100%;
     max-width: 100%;
 }
-header.col-1 {
+header .col-1 {
     flex: 1;
-    background-color: #F7F4F4;
+    background-color: #f2e8c9;
 }
 .col-1 {
     flex: 1;
@@ -107,7 +107,7 @@ header.col-1 {
 .col-3 {
     flex: 3;
 }
-header.col-4 {
+header .col-4 {
     flex: 4;
     background-color: black;
 }
@@ -142,7 +142,7 @@ header ul li {
     text-align: center;
 }
 header .col-1 {
-    background-color: #F7F4F4;
+    background-color: #f2e8c9;
 }
 header .col-4 {
     background-color: black;
