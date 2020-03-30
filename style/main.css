@@ -126,9 +126,8 @@ header.col-4 {
 
 /* Шапка сайта */
 header {
-    flex: 1 0 auto;
-    height: 50px;
-    width: 1000px;
+    flex: 0 0 auto;
+    height: 100px;
 }
 header > div.container {
     height: 100%;
