@@ -137,7 +137,7 @@ header ul {
     justify-content: center;
     margin-top: 10px;
 }
-header ul:hover {
+header ul li:hover {
     background-color: red;
     height: 70px;
     text-decoration: none;
