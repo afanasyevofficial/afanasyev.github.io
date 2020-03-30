@@ -138,11 +138,9 @@ header ul li {
     margin-right: 20px;
 }
 header.col-1 {
-    flex: 1;
     background-color: #F7F4F4;
 }
-header.col-4 {
-    flex: 4;
+header .col-4 {
     background-color: black;
 }
 
