@@ -143,6 +143,7 @@ header ul li {
 }
 header .col-1 {
     background-color: #f2e8c9;
+    height: 100%;
 }
 header .col-4 {
     background-color: black;
