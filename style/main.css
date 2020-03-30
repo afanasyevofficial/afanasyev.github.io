@@ -94,10 +94,6 @@ img {
     width: 100%;
     max-width: 100%;
 }
-header .col-1 {
-    flex: 1;
-    background-color: #f2e8c9;
-}
 .col-1 {
     flex: 1;
 }
@@ -147,11 +143,11 @@ header ul li {
     margin-top: 35px;
 }
 header .col-1 {
-    background-color: #f2e8c9;
+    background-color: #F7F4F4;
     height: 100%;
 }
 header .col-4 {
-    background-color: #f2e8c9;
+    background-color: #F7F4F4;
     height: 100%;
 }
 
