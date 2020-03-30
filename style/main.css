@@ -94,6 +94,10 @@ img {
     width: 100%;
     max-width: 100%;
 }
+header.col-1 {
+    flex: 1;
+    background-color: #F7F4F4;
+}
 .col-1 {
     flex: 1;
 }
@@ -102,6 +106,10 @@ img {
 }
 .col-3 {
     flex: 3;
+}
+header.col-4 {
+    flex: 4;
+    background-color: black;
 }
 .col-4 {
     flex: 4;
@@ -128,12 +136,6 @@ header > div.container {
 }
 header ul li {
     margin-right: 20px;
-}
-header.col-1 {
-    background-color: #F7F4F4;
-}
-header.col-4 {
-    background-color: black;
 }
 
 
