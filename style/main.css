@@ -156,11 +156,11 @@ header .col-4 {
 main {
     display: flex;
     flex: 1 0 auto;
-    background-color: #F7F4F4;
+    background-color: white;
 }
 main > div.container {
     flex: 1 0 auto;
-    background-color: white;
+    background-color: #F7F4F4;
 }
 main {
     background-image: url(/afanasyev_official/images/main.jpg);
@@ -190,7 +190,7 @@ aside li {
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
-    background-color: black;
+    background-color: white;
     height: 300px;
     color: white;
 }
@@ -212,4 +212,10 @@ footer a:hover {
 }
 footer li {
     line-height: 2em;
+}
+footer .col-1 {
+    background-color: #F7F4F4;
+}
+footer .col-3 {
+    background-color: #F7F4F4;
 }
