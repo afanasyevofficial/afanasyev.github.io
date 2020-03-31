@@ -182,6 +182,10 @@ main {
     background-position: center center;
     background-size: cover;
 }
+main .container2 {
+    margin-top: 360px;
+    background-color: white;
+}
 section {
     flex: 3 0 auto;
     padding: 0 15px;
