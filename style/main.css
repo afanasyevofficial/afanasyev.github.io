@@ -140,11 +140,11 @@ header ul {
 header ul li:hover {
     background-color: red;
     height: 70px;
+    margin-bottom: 35px;
     text-decoration: none;
     text-decoration: underline;
 }
 header ul li {
-    margin-right: 20px;
     text-align: center;
     margin-top: 35px;
 }
