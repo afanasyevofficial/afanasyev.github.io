@@ -220,6 +220,10 @@ aside li {
     width: 40px;
     margin-top: 20px;
 }
+.col-1-1 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 /* Подвал сайта */
 footer {
