@@ -197,8 +197,8 @@ aside li {
 footer {
     flex: 0 0 auto;
     background-color: white;
-    height: 300px;
-    color: white;
+    height: 70px;
+    color: grey;
 }
 footer > div.container {
     height: 100%;
