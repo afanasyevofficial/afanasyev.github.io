@@ -142,7 +142,6 @@ header ul {
     text-align: center;
     background-color: black;
     height: 70px;
-    width: 160px;
     justify-content: center;
     margin-top: 10px;
 }
@@ -162,7 +161,11 @@ header .col-5 {
     background-color: #F7F4F4;
     height: 100%;
     justify-content: center;
-    margin-left: 200px;
+}
+header .col-1 {
+    background-color: #F7F4F4;
+    height: 100%;
+    justify-content: center;
 }
 
 
@@ -208,10 +211,8 @@ aside a:hover {
 aside li {
     line-height: 1.5em;
 }
-.text {
+.mainone {
     background-color: white;
-    color: black;
-    margin-top: 110px;
 }
 
 
