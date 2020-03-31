@@ -142,6 +142,7 @@ header ul {
     text-align: center;
     background-color: black;
     height: 70px;
+    width: 160px;
     justify-content: center;
     margin-top: 10px;
 }
@@ -157,11 +158,7 @@ header ul li {
     text-align: center;
     margin-top: 35px;
 }
-header .col-1 {
-    background-color: #F7F4F4;
-    height: 100%;
-}
-header .col-4 {
+header .col-5 {
     background-color: #F7F4F4;
     height: 100%;
 }
