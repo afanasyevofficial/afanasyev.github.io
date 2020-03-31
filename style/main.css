@@ -161,6 +161,7 @@ header ul li {
 header .col-5 {
     background-color: #F7F4F4;
     height: 100%;
+    justify-content: center;
 }
 
 
