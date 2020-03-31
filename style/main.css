@@ -162,7 +162,7 @@ header .col-5 {
     height: 100%;
     justify-content: center;
 }
-header .col-1 {
+.col-1 {
     background-color: #F7F4F4;
     height: 100%;
     justify-content: center;
@@ -224,8 +224,9 @@ aside li {
     margin-left: 20px;
     margin-right: 20px;
 }
-.mainone .line {
-
+.line {
+    background-color: gray;
+    height: 1px;
 }
 
 
