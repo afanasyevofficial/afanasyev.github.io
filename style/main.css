@@ -198,7 +198,7 @@ aside li {
 footer {
     flex: 0 0 auto;
     background-color: white;
-
+    height: 50px;
     color: white;
 }
 footer > div.container {
