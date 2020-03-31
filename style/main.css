@@ -227,7 +227,7 @@ aside li {
 .line {
     background-color: white;
 }
-.col-4 {
+.line .col-4 {
     background-color: gray;
     height: 3px;
     margin-bottom: 400px;
