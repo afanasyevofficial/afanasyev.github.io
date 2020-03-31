@@ -174,7 +174,7 @@ header .col-1 {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
-    height: 400px;
+    height: 180px;
 }
 .maintop > div.container {
     flex: 1 0 auto;
