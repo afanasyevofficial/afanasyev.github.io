@@ -198,7 +198,7 @@ footer {
     flex: 0 0 auto;
     background-color: white;
     height: 70px;
-    color: grey;
+    color: white;
 }
 footer > div.container {
     height: 100%;
@@ -224,4 +224,9 @@ footer .col-1 {
 }
 footer .col-5 {
     background-color: black;
+    margin-left: 15px;
+}
+footer .img {
+    width: 100%;
+    height: 100%;
 }
