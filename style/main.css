@@ -174,7 +174,6 @@ header .col-1 {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
-    height: 180px;
 }
 .maintop > div.container {
     flex: 1 0 auto;
@@ -214,6 +213,7 @@ aside li {
 }
 .mainone {
     background-color: white;
+    margin-bottom: 400px;
 }
 
 
