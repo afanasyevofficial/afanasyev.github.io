@@ -224,9 +224,9 @@ aside li {
     margin-left: 20px;
     margin-right: 20px;
 }
-.line {
+.line .col-5 {
     background-color: gray;
-    height: 1px;
+    height: 10px;
 }
 
 
