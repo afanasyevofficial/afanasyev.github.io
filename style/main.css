@@ -170,16 +170,16 @@ header .col-1 {
 
 
 /* Основное содержимое */
-main {
+.maintop {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
 }
-main > div.container {
+.maintop > div.container {
     flex: 1 0 auto;
     background-color: #F7F4F4;
 }
-main {
+.maintop {
     background-image: url(/afanasyev_official/images/main.jpg);
     background-position: center center;
     background-size: cover;
