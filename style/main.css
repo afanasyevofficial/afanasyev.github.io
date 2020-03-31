@@ -191,11 +191,20 @@ aside {
     padding: 0 15px;
 }
 aside a {
-    color: black;
+    color: white;
+    background-color: red;
     text-decoration: none;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
 }
 aside a:hover {
     text-decoration: underline;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
 }
 aside li {
     line-height: 1.5em;
