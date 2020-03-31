@@ -215,7 +215,10 @@ aside li {
     background-color: white;
     margin-bottom: 400px;
 }
-
+.mainone img {
+    height: 50px;
+    width: 50px;
+}
 
 /* Подвал сайта */
 footer {
