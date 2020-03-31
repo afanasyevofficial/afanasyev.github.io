@@ -216,8 +216,9 @@ aside li {
     margin-bottom: 400px;
 }
 .mainone img {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
 }
 
 /* Подвал сайта */
