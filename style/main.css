@@ -124,7 +124,6 @@ header .col-4 {
 header {
     flex: 0 0 auto;
     height: 100px;
-    width: 800px;
     background-color: white;
     justify-content: center;
 }
@@ -139,6 +138,7 @@ header ul {
     width: 800px;
     justify-content: center;
     margin-top: 10px;
+    margin-left: 600px;
 }
 header ul li:hover {
     background-color: red;
