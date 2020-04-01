@@ -201,9 +201,8 @@ aside li {
 .mainone {
     background-color: white;
 }
-.one img {
-    height: 10%;
-    width: 10%;
+.one aside {
+    background-color: #F7F4F4;
 }
 .two img {
     height: 40px;
