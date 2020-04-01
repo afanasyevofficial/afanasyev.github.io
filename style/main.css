@@ -18,9 +18,13 @@ body {
     padding: 20px 30px;
     margin: 10px 20px;
     text-decoration: none !important;
+    color: white;
+    background-color: red;
+    margin-top: 35px;
 }
 .button:hover {
-    background-color: red;
+    background-color: black;
+    text-decoration: none;
 }
 .button {
     height: 50px;
