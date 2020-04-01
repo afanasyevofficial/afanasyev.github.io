@@ -168,10 +168,6 @@ header ul li {
     flex: 1 0 auto;
     background-color: #F7F4F4;
 }
-.two > div.container {
-    flex: 1 0 auto;
-    background-color: white;
-}
 section {
     flex: 3 0 auto;
     padding: 0 15px;
