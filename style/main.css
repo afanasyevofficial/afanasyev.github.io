@@ -200,6 +200,10 @@ aside li {
 .mainone {
     background-color: white;
 }
+.one img {
+    height: 10%;
+    width: 10%;
+}
 .two img {
     height: 40px;
     width: 40px;
