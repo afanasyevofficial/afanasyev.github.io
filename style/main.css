@@ -134,6 +134,9 @@ header .col-4 {
     justify-content: center;
     margin-top: 10px;
 }
+header ul {
+    justify-content: center;
+}
 header ul li:hover {
     background-color: red;
     height: 70px;
