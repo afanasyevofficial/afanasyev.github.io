@@ -97,16 +97,8 @@ img {
 .col-1 {
     flex: 1;
 }
-.col-1-1 {
-    flex: 1;
-    background-color: white;
-}
 .col-2 {
     flex: 2;
-}
-.col-2-1 {
-    flex: 2;
-    background-color: white;
 }
 .col-3 {
     flex: 3;
@@ -161,12 +153,17 @@ header ul li {
 
 
 /* Основное содержимое */
-.maintop {
+.one {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
 }
-.maintop > div.container {
+.two {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: white;
+}
+.one > div.container {
     flex: 1 0 auto;
     background-color: #F7F4F4;
 }
