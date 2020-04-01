@@ -124,7 +124,8 @@ header .col-4 {
 header {
     flex: 0 0 auto;
     height: 100px;
-    background-color: white;
+    width: 800px;
+    background-color: #F7F4F4;
 }
 header > div.container {
     height: 100%;
