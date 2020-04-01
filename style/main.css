@@ -103,10 +103,6 @@ img {
 .col-3 {
     flex: 3;
 }
-header .col-4 {
-    flex: 4;
-    background-color: #F7F4F4;
-}
 .col-4 {
     flex: 4;
 }
@@ -131,14 +127,12 @@ header > div.container {
     height: 100%;
     align-items: center;
 }
-header ul {
+header .col-4 {
     text-align: center;
     background-color: black;
     height: 70px;
-    width: 800px;
     justify-content: center;
     margin-top: 10px;
-    margin-left: 600px;
 }
 header ul li:hover {
     background-color: red;
