@@ -170,11 +170,6 @@ header ul li {
     flex: 1 0 auto;
     background-color: #F7F4F4;
 }
-.maintop {
-    background-image: url(/afanasyev_official/images/main.jpg);
-    background-position: center center;
-    background-size: cover;
-}
 section {
     flex: 3 0 auto;
     padding: 0 15px;
@@ -205,12 +200,10 @@ aside li {
 .mainone {
     background-color: white;
 }
-.col-1-1 img {
+.two img {
     height: 40px;
     width: 40px;
     margin-top: 20px;
-}
-.col-1-1 {
     margin-left: 20px;
     margin-right: 20px;
 }
