@@ -14,22 +14,16 @@ body {
     flex-direction: column;
     height: 100%;
 }
-.button {
-    padding: 20px 30px;
-    margin: 10px 20px;
+.button1 {
     text-decoration: none !important;
     color: white;
     background-color: red;
-    margin-top: 35px;
+    height: 50px;
+    border-radius: 5px;
 }
-.button:hover {
+.button1:hover {
     background-color: black;
     text-decoration: none;
-}
-.button {
-    height: 50px;
-    background-color: #888;
-    border-radius: 5px;
 }
 .container {
     display: flex;
