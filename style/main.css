@@ -89,10 +89,6 @@ nav ul {
 
 
 /* Гибкая верстка */
-img {
-    width: 100%;
-    max-width: 100%;
-}
 .col-1 {
     flex: 1;
 }
@@ -139,7 +135,6 @@ header ul {
     justify-content: center;
     margin-top: 10px;
     height: 70px;
-
 }
 header ul li:hover {
     background-color: red;
@@ -168,10 +163,20 @@ header ul li {
 .one .col-2 {
     background-color: #F7F4F4;
 }
+.one aside {
+    background-color: #F7F4F4;
+}
 .two {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
+}
+.two img {
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .three {
     display: flex;
@@ -189,6 +194,13 @@ header ul li {
     flex: 1 0 auto;
     background-color: white;
 }
+.five ul {
+    text-align: center;
+    background-color: white;
+    justify-content: center;
+    margin-top: 10px;
+    height: 70px;
+}
 .six {
     display: flex;
     flex: 1 0 auto;
@@ -198,16 +210,7 @@ header ul li {
     height: 50%;
     width: 50%;
 }
-.one aside {
-    background-color: #F7F4F4;
-}
-.two img {
-    height: 40px;
-    width: 40px;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-}
+
 
 
 /* Подвал сайта */
