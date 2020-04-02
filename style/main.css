@@ -173,6 +173,26 @@ header ul li {
     flex: 1 0 auto;
     background-color: white;
 }
+.three {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: white;
+}
+.four {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: white;
+}
+.five {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: white;
+}
+.six {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: white;
+}
 section {
     flex: 3 0 auto;
     padding: 0 15px;
