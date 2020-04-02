@@ -198,37 +198,6 @@ header ul li {
     height: 50%;
     width: 50%;
 }
-
-section {
-    flex: 3 0 auto;
-    padding: 0 15px;
-}
-aside {
-    flex: 3 0 auto;
-    padding: 0 15px;
-}
-aside a {
-    color: white;
-    background-color: red;
-    text-decoration: none;
-    height: 200px;
-    width: 600px;
-    border-radius: 4px;
-}
-aside a:hover {
-    text-decoration: underline;
-    background-color: black;
-    color: white;
-    height: 200px;
-    width: 600px;
-    border-radius: 4px;
-}
-aside li {
-    line-height: 1.5em;
-}
-.mainone {
-    background-color: white;
-}
 .one aside {
     background-color: #F7F4F4;
 }
