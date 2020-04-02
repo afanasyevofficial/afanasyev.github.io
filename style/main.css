@@ -133,10 +133,12 @@ header > div.container {
 }
 header .col-4 {
     text-align: center;
-    background-color: black;
-    height: 70px;
+    background-color: #F7F4F4;
     justify-content: center;
     margin-top: 10px;
+}
+header .col-1 {
+    background-color: #F7F4F4;
 }
 header ul {
     justify-content: center;
@@ -160,6 +162,12 @@ header ul li {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
+}
+.one .col-1 {
+    background-color: #F7F4F4;
+}
+.one .col-2 {
+    background-color: #F7F4F4;
 }
 .two {
     display: flex;
