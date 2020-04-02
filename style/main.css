@@ -137,6 +137,7 @@ header ul {
     background-color: black;
     justify-content: center;
     margin-top: 10px;
+    height: 70px;
 }
 header ul li:hover {
     background-color: red;
