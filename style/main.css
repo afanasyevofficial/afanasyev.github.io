@@ -143,7 +143,6 @@ header ul {
 header ul li:hover {
     background-color: red;
     height: 70px;
-    margin-top: 10px;
     text-decoration: none;
     text-decoration: underline;
 }
