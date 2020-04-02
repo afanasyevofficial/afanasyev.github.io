@@ -141,7 +141,10 @@ header .col-1 {
     background-color: #F7F4F4;
 }
 header ul {
+    text-align: center;
+    background-color: black;
     justify-content: center;
+    margin-top: 10px;
 }
 header ul li:hover {
     background-color: red;
