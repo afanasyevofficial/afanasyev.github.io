@@ -207,7 +207,7 @@ header ul li {
 .all {
     color: blue;
 }
-.five ul li {
+.five ul li:hover {
     color: blue;
 }
 .six {
