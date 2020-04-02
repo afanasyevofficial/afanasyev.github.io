@@ -117,6 +117,10 @@ img {
 .col-5 {
     flex: 5;
 }
+.col-5-1 {
+    flex: 5;
+    background-color: #F7F4F4;
+}
 @media(max-width: 800px) {
     .container {
         flex-direction: column;
@@ -128,21 +132,11 @@ img {
 header {
     flex: 0 0 auto;
     height: 100px;
-    background-color: white;
     justify-content: center;
 }
 header > div.container {
     height: 100%;
     align-items: center;
-}
-header .col-4 {
-    text-align: center;
-    background-color: #F7F4F4;
-    justify-content: center;
-    margin-top: 10px;
-}
-header .col-1 {
-    background-color: #F7F4F4;
 }
 header ul {
     text-align: center;
@@ -158,9 +152,8 @@ header ul li:hover {
     text-decoration: underline;
 }
 header ul li {
-    margin-right: 30px;
     text-align: center;
-    margin-top: 35px;
+    margin-top: 10px;
 }
 
 
