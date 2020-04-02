@@ -203,9 +203,16 @@ header ul li {
     text-decoration: none;
     text-decoration: underline;
     color: black;
+    margin-right: 20px;
 }
-.all {
+ul li .all {
     color: blue;
+}
+.five ul li {
+    text-decoration: none;
+    text-decoration: underline;
+    color: black;
+    margin-right: 20px;
 }
 .five ul li:hover {
     color: blue;
