@@ -209,6 +209,8 @@ header ul li {
 }
 .five ul li:hover {
     color: blue;
+    text-decoration: none;
+    text-decoration: underline;
 }
 .six {
     display: flex;
