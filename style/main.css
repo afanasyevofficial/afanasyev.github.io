@@ -101,6 +101,10 @@ img {
 .col-1 {
     flex: 1;
 }
+.col-1-1 {
+    flex: 1;
+    background-color: #F7F4F4;
+}
 .col-2 {
     flex: 2;
 }
@@ -149,7 +153,7 @@ header ul {
 header ul li:hover {
     background-color: red;
     height: 70px;
-    margin-bottom: 35px;
+    margin-top: 10px;
     text-decoration: none;
     text-decoration: underline;
 }
