@@ -177,6 +177,7 @@ header ul li {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
+    text-align: center;
 }
 .four {
     display: flex;
@@ -187,6 +188,11 @@ header ul li {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
+}
+.five img {
+    height: 70%;
+    width: 70%;
+    margin-right: 20px;
 }
 .six {
     display: flex;
@@ -232,16 +238,6 @@ aside li {
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-}
-.line {
-    background-color: white;
-}
-.line .col-4 {
-    background-color: gray;
-    height: 3px;
-    width: 800px;
-    margin-top: 20px;
-    margin-left: 600px;
 }
 
 
