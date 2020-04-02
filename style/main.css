@@ -200,6 +200,15 @@ header ul li {
     justify-content: center;
     margin-top: 10px;
     height: 70px;
+    text-decoration: none;
+    text-decoration: underline;
+    color: black;
+}
+.all {
+    color: blue;
+}
+.five ul li {
+    color: blue;
 }
 .six {
     display: flex;
