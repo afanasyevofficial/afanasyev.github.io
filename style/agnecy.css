@@ -124,10 +124,7 @@ header {
     flex: 0 0 auto;
     height: 100px;
     justify-content: center;
-}
-header > div.container {
-    height: 100%;
-    align-items: center;
+    background-color: #F7F4F4;
 }
 header ul {
     text-align: center;
@@ -155,7 +152,7 @@ header ul li {
 .one {
     display: flex;
     flex: 1 0 auto;
-    background-color: white;
+    background-color: #F7F4F4;
 }
 .one .col-1 {
     background-color: #F7F4F4;
