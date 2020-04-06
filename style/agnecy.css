@@ -146,6 +146,7 @@ header li {
 }
 header li a:hover {
     background-color: red;
+    text-decoration: none;
 }
 
 
