@@ -129,6 +129,7 @@ header {
 header ul {
     justify-content: center;
     display: flex;
+    text-decoration: none;
 }
 header li a {
     padding: 30px 10px;
@@ -139,6 +140,9 @@ header > div.container {
     height: 100%;
     align-items: center;
     background-color: black;
+}
+header li {
+    text-decoration: none;
 }
 header li a:hover {
     background-color: red;
@@ -207,14 +211,12 @@ ul li .all {
 }
 .five ul li {
     text-decoration: none;
-    text-decoration: underline;
     color: black;
     margin-right: 20px;
 }
 .five ul li:hover {
     color: blue;
     text-decoration: none;
-    text-decoration: underline;
 }
 .six {
     display: flex;
