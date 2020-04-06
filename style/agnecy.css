@@ -122,29 +122,27 @@ nav ul {
 /* Шапка сайта */
 header {
     flex: 0 0 auto;
-    height: 100px;
-    justify-content: center;
+    color: #dedede;
+    font-size: 25px;
+    height: 70px;
     background-color: #F7F4F4;
 }
 header ul {
-    text-align: center;
-    background-color: black;
     justify-content: center;
-    margin-top: 10px;
-    height: 70px;
+    display: flex;
 }
-header ul li:hover {
-    background-color: red;
-    height: 70px;
-    margin-bottom: 20px;
+header li a {
+    padding: 30px 10px;
     text-decoration: none;
-    text-decoration: underline;
+    color: #dedede;
 }
-header ul li {
-    text-align: center;
-    margin-right: 20px;
-    margin-top: 30px;
-    justify-content: center;
+header > div.container {
+    height: 100%;
+    align-items: center;
+    background-color: black;
+}
+header li a:hover {
+    background-color: red;
 }
 
 
