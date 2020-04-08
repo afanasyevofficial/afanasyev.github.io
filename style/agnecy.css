@@ -151,53 +151,33 @@ header li a:hover {
 
 
 /* Основное содержимое */
-.one {
+.about {
     display: flex;
     flex: 1 0 auto;
     background-color: #F7F4F4;
 }
-.one .col-1 {
-    background-color: #F7F4F4;
-}
-.one .col-2 {
-    background-color: #F7F4F4;
-}
-.one aside {
-    background-color: #F7F4F4;
-}
-.two {
+.service {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
 }
-.two img {
+.service img {
     height: 40px;
     width: 40px;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
 }
-.three {
+.products {
     display: flex;
     flex: 1 0 auto;
     background-color: white;
 }
-.four {
-    display: flex;
-    flex: 1 0 auto;
-    background-color: white;
-    text-align: center;
-}
-.five {
-    display: flex;
-    flex: 1 0 auto;
-    background-color: white;
-}
-.five ul {
+.prodmenu ul {
     text-decoration: none;
     color: black;
 }
-.five ul {
+.prodmenu ul {
     text-align: center;
     background-color: white;
     justify-content: center;
@@ -207,24 +187,19 @@ header li a:hover {
     color: black;
     margin-right: 20px;
 }
-ul li .all {
+.all {
     color: blue;
 }
-.five ul li {
+.prodmenu ul li {
     text-decoration: none;
     color: black;
     margin-right: 20px;
 }
-.five ul li:hover {
+.prodmenu ul li:hover {
     color: blue;
     text-decoration: none;
 }
-.six {
-    display: flex;
-    flex: 1 0 auto;
-    background-color: white;
-}
-.six img {
+.prod img {
     height: 50%;
     width: 50%;
 }
