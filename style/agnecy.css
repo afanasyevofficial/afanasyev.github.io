@@ -151,6 +151,10 @@ header li a:hover {
 
 
 /* Основное содержимое */
+section {
+    flex: 3 0 auto; /* 3 - это ширина столбца */
+    padding: 0 90px;
+}
 .about {
     display: flex;
     flex: 1 0 auto;
