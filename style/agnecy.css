@@ -97,6 +97,18 @@ header li a:hover {
 
 
 /* Основное содержимое */
+.about > div.container {
+    height: 100%;
+    padding: 10px 0;
+}
+.service > div.container {
+    height: 100%;
+    padding: 10px 0;
+}
+.product > div.container {
+    height: 100%;
+    padding: 10px 0;
+}
 section {
     flex: 3 0 auto; /* 3 - это ширина столбца */
     padding: 0 90px;
