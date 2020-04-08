@@ -15,7 +15,7 @@ body {
 .container {
     display: flex;
     width: 100%;
-    max-width: 1024px;
+    max-width:  1024px;
     margin: 0 auto;
 }
 
@@ -131,7 +131,6 @@ section {
     margin-right: 20px;
 }
 .products {
-    display: flex;
     flex: 1 0 auto;
     background-color: white;
 }
@@ -140,14 +139,14 @@ section {
     color: black;
 }
 .prodmenu ul {
-    text-align: center;
-    background-color: white;
-    justify-content: center;
-    margin-top: 10px;
-    height: 70px;
-    text-decoration: none;
     color: black;
+    background-color: white;
+    margin-top: 10px;
     margin-right: 20px;
+    height: 70px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
 }
 .all {
     color: blue;
@@ -170,16 +169,13 @@ section {
 /* Подвал сайта */
 footer {
     flex: 0 0 auto;
-    background-color: white;
+    background-color: black;
     height: 50px;
-    color: white;
+    color: grey;
 }
 footer > div.container {
     height: 100%;
     padding: 10px 0;
-}
-footer nav ul {
-    margin-right: 30px;
 }
 header a,
 footer a {
@@ -188,19 +184,7 @@ footer a {
 }
 header a:hover,
 footer a:hover {
-    text-decoration: underline;
-}
-footer li {
-    line-height: 2em;
-}
-footer .col-1 {
-    background-color: black;
-    height: 50px;
-}
-footer .col-5 {
-    background-color: black;
-    color: white;
-    height: 50px;
+    text-decoration:none;
 }
 footer a img {
     width: 30px;
