@@ -152,6 +152,19 @@ section {
     width: 40px;
     margin-top: 20px;
 }
+.button {
+    height: 50px;
+    width: auto;
+    background-color: red;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.button:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
 .products {
     flex: 1 0 auto;
     background-color: white;
