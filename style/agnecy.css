@@ -167,8 +167,7 @@ section {
     display: flex;
 }
 .prod img {
-    width: 70%;
-    height: 70%;
+    width: 250px;
 }
 .products {
     flex: 1 0 auto;
