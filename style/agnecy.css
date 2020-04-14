@@ -183,12 +183,12 @@ section {
 .all {
     color: blue;
 }
-.prodmenu ul li {
+.prodmenu ul li a {
     text-decoration: none;
     color: black;
     margin-right: 20px;
 }
-.prodmenu ul li:hover {
+.prodmenu ul li a:hover {
     color: blue;
     text-decoration: none;
 }
