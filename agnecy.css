@@ -162,6 +162,9 @@ section {
     color: white;
     text-decoration: none;
 }
+.prod > div {
+    justify-content: center;
+}
 .products {
     flex: 1 0 auto;
     background-color: white;
@@ -185,8 +188,8 @@ section {
     color: blue;
     text-decoration: none;
 }
-.active {
-    color: blue;
+.active a {
+    color: blue !important;
 }
 
 
