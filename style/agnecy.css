@@ -47,9 +47,11 @@ h6 {
 /* Предустановки */
 .row {
     flex-direction: row;
+    display: flex;
 }
 .column {
     flex-direction: column;
+    display: flex;
 }
 nav ul {
     margin: 0;
