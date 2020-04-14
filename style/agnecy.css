@@ -167,10 +167,6 @@ section {
     background-color: white;
 }
 .prodmenu ul {
-    text-decoration: none;
-    color: black;
-}
-.prodmenu ul {
     color: black;
     background-color: white;
     margin-top: 10px;
@@ -180,9 +176,6 @@ section {
     justify-content: center;
     text-decoration: none;
 }
-.all {
-    color: blue;
-}
 .prodmenu ul li a {
     text-decoration: none;
     color: black;
@@ -191,6 +184,9 @@ section {
 .prodmenu ul li a:hover {
     color: blue;
     text-decoration: none;
+}
+.all {
+    color: blue;
 }
 
 
