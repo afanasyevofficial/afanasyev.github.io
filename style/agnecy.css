@@ -162,6 +162,9 @@ section {
     color: white;
     text-decoration: none;
 }
+.prod > div {
+    align-items: center;
+}
 .products {
     flex: 1 0 auto;
     background-color: white;
