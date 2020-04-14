@@ -186,7 +186,7 @@ section {
     text-decoration: none;
 }
 .active a {
-    color: blue;
+    color: blue !important;
 }
 
 
