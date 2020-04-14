@@ -163,7 +163,7 @@ section {
     text-decoration: none;
 }
 .prod > div {
-    align-items: center;
+    justify-content: center;
 }
 .products {
     flex: 1 0 auto;
