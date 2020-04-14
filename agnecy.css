@@ -164,6 +164,9 @@ section {
 }
 .prod > div {
     justify-content: center;
+    display: flex;
+}
+.prod img {
 }
 .products {
     flex: 1 0 auto;
