@@ -153,8 +153,6 @@ section {
     margin-top: 20px;
 }
 .button {
-    height: 50px;
-    width: auto;
     background-color: red;
     color: black;
     border-radius: 5px;
