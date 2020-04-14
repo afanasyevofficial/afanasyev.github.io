@@ -61,10 +61,6 @@ nav ul {
 
 
 /* Гибкая верстка */
-img {
-    width: 100%;
-    max-width: 100%;
-}
 .col-1 {
     flex: 1;
 }
