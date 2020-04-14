@@ -163,7 +163,7 @@ section {
     text-decoration: none;
 }
 .prod > div {
-    justify-content: center;
+    justify-content: space-around;
     display: flex;
 }
 .prod img {
