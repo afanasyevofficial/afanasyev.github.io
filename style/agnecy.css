@@ -164,6 +164,11 @@ section {
 }
 .prod > div {
     justify-content: center;
+    display: flex;
+}
+.prod img {
+    width: 70%;
+    height: 70%;
 }
 .products {
     flex: 1 0 auto;
