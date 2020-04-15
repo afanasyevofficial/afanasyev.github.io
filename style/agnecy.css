@@ -172,6 +172,9 @@ section {
     margin-right: 10px;
     margin-top: 20px;
 }
+.teamtop {
+    align-items: center;
+}
 .products {
     flex: 1 0 auto;
     background-color: white;
@@ -202,7 +205,21 @@ section {
     height: 100%;
     padding: 10px 0;
 }
-
+.subscribe {
+    background-color: black;
+}
+.subscribe > div.container {
+    height: 100%;
+    padding: 10px 0;
+}
+.subtext1 {
+    color: white;
+    align-items: center;
+}
+.subtext2 {
+    color: gray;
+    align-items: center;
+}
 
 
 /* Подвал сайта */
