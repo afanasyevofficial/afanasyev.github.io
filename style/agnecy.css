@@ -198,6 +198,11 @@ section {
 .active a {
     color: blue !important;
 }
+.team > div.container {
+    height: 100%;
+    padding: 10px 0;
+}
+
 
 
 /* Подвал сайта */
