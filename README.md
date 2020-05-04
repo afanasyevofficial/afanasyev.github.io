@@ -1,1 +1,0 @@
-# afanasyev.github.io
