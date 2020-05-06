@@ -254,6 +254,10 @@ section {
 .texttabl2 {
     color: red;
 }
+.texttablcol {
+    margin-top: 10px;
+}
+
 
 /* Подвал сайта */
 footer {
