@@ -248,7 +248,12 @@ section {
     color: black;
     text-decoration: none;
 }
-
+.texttabl1 {
+    color: red;
+}
+.texttabl2 {
+    color: red;
+}
 
 /* Подвал сайта */
 footer {
